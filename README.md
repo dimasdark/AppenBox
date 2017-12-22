@@ -1,15 +1,16 @@
 # AppenBox
 
-Criado por Dimas Albuquerque Mendes para auxiliar no TCC sobre análise de Vulnerabilidades em Aplicações Android. 
+Criado por Dimas Albuquerque Mendes para auxiliar no TCC sobre análise de Vulnerabilidades em Aplicações Android.
+É gratis, e todas as ferramentas incluídas podem ser baixadas separadamente.  
 
 ## Por que utilizar?
 
-A ferramenta foi baseada da necessidade de se reunir ferramentas indispensáveis para o pentesting em aplicações Android;
+A ferramenta foi baseada da necessidade de se reunir ferramentas indispensáveis para o pentesting em aplicações Android.
 
 ## Instalação
 
-1. Faça o download em: 
-2. Extraia
+1.Faça o download em: Upload em andamento.
+2.Extraia
 3.Abra o AppenBox.exe 
 
 ## Atalhos do teclado
