@@ -1,5 +1,7 @@
 # AppenBox
 
+![Alt text](/APPENBOX.png?raw=true "AppenBox Logo")
+
 Criado por Dimas Albuquerque Mendes para auxiliar no TCC sobre análise de Vulnerabilidades em Aplicações Android.
 É gratis, e todas as ferramentas incluídas podem ser baixadas separadamente.  
 
@@ -9,9 +11,9 @@ A ferramenta foi baseada da necessidade de se reunir ferramentas indispensáveis
 
 ## Instalação
 
-1.Faça o download em: Upload em andamento.
-2.Extraia
-3.Abra o AppenBox.exe 
+1.Faça o download em: Upload em andamento.  
+2.Extraia  
+3.Abra o AppenBox.exe   
 
 ## Atalhos do teclado
 
@@ -33,18 +35,35 @@ A ferramenta foi baseada da necessidade de se reunir ferramentas indispensáveis
 * <kbd>Ctrl</kbd> + <kbd>R</kbd> : Procurar histórico
 * <kbd>Shift</kbd> + Mouse : Seleciona e copia do buffer
 
-
-
 ## Comandos Shell 
 
 Todos os comandos do Git e Mingw32 utilizados para Shell.
 
 ## Criado com
 
-* [ConEmu](https://conemu.github.io/) - Terminal utilizado
-* [Clink](https://mridgers.github.io/clink/) - Criação de Alias, Execução de Scripts
+* [ConEmu](https://conemu.github.io/) - Terminal base utilizado
+* [Clink](https://mridgers.github.io/clink/) - Criação de alias, Execução de Scripts
 * [GitHub](https://github.com/) - Utilizado para extender a Shell
 
+## Ferramentas Incluídas
+
+* [Android SDK](https://developer.android.com/studio/index.html#downloads) 
+* [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework) 
+* [AndroGuard](https://github.com/androguard/androguard) 
+* [Androwarn](https://github.com/maaaaz/androwarn/) 
+* [APKTool](https://ibotpeaches.github.io/Apktool/) 
+* [Burp Suite](https://portswigger.net/burp) 
+* [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer) 
+* [CFR](http://www.benf.org/other/cfr/) 
+* [Drozer](https://labs.mwrinfosecurity.com/tools/drozer/) 
+* [d2j-dextojar](https://github.com/pxb1988/dex2jar) 
+* [JADX](https://github.com/skylot/jadx) 
+* [JD-GUI](http://jd.benow.ca/) 
+* [PidCat](https://github.com/JakeWharton/pidcat) 
+* [Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) 
+* [Sublime](https://www.sublimetext.com/) 
+* [SQLite3](https://www.sqlite.org/) 
+* [Wireshark](https://www.wireshark.org/) 
 
 ## License
 
