@@ -1,6 +1,6 @@
 # AppenBox
 
-![Alt text](/APPENBOX.png?raw=true "AppenBox Logo"){:height="50%" width="50%"}
+![Alt text](/APPENBOX.png?raw=true "AppenBox Logo")
 
 Criado por Dimas Albuquerque Mendes para auxiliar no TCC sobre análise de Vulnerabilidades em Aplicações Android.
 É gratis, e todas as ferramentas incluídas podem ser baixadas separadamente.  
